@@ -1,0 +1,11 @@
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\bin\Debug\Calculador-wf.exe.config
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\bin\Debug\Calculador-wf.exe
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\bin\Debug\Calculador-wf.pdb
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\obj\Debug\Calculador-wf.csproj.AssemblyReference.cache
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\obj\Debug\Calculador-wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\obj\Debug\Calculador_wf.Form1.resources
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\obj\Debug\Calculador_wf.Properties.Resources.resources
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\obj\Debug\Calculador-wf.csproj.GenerateResource.cache
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\obj\Debug\Calculador-wf.csproj.CoreCompileInputs.cache
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\obj\Debug\Calculador-wf.exe
+C:\Users\nanar\source\repos\Exercicio1\Calculador-wf\obj\Debug\Calculador-wf.pdb
